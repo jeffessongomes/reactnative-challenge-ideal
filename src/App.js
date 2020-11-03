@@ -21,11 +21,6 @@ export default function App() {
     });
   }, []);
 
-  async function updateData(){
-    const response = await api.get('repositories');
-    setRepositories(response.data);
-  }
-
   async function handleLikeRepository(id) {
     const {data} = await api.post(`repositories/${id}/like`)    
     const repoLikes = repositories.map((repository) => (
