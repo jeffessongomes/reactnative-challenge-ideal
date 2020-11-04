@@ -1,4 +1,4 @@
-<h1 align="center">GoStack Modulo 01</h1>
+<h1 align="center">Desafio do React Native</h1>
 <!-- <img alt="Proffy" src="./github/banner.png"> -->
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/jeffessongomes/reactnative-challenge-ideal?style=for-the-badge">
@@ -20,7 +20,7 @@
 
 ## :computer: Sobre
 
-O projeto é um desafio proposto após o fim do primeiro modulo do **GoStack**, oferecido pela [Rocketseat](https://www.rocketseat.com.br).
+O projeto é um desafio para criar um aplicativo em React Native capaz de consumir uma API, que também foi criada em um dos desafios anteriores e ele foi proposto após o fim do primeiro modulo do **GoStack**, oferecido pela [Rocketseat](https://www.rocketseat.com.br).
 
 ---
 ### :hammer: **Tecnologias**
